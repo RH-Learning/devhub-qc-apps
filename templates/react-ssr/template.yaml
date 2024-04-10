@@ -27,7 +27,7 @@ metadata:
     - react
     - spa
 spec:
-  owner: admins
+  owner: frontend-team
   type: website
   parameters:
     - title: Provide some simple information
